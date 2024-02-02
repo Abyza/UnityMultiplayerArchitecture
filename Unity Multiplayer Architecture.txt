@@ -1,0 +1,11 @@
+Unity Multiplayer Architecture
+by: Abyza
+
+GameEngineClient: Unity
+Server: Unity
+Database: MySQL
+Operating system : Windows 11
+Machine: Nitro 5 Acer 2022 - AN515-58
+Email sever: none atm
+Dynamic Domain Name: DuckDNS
+Internet service provider: PLDT
