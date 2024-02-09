@@ -9,3 +9,8 @@ Machine: Nitro 5 Acer 2022 - AN515-58
 Email sever: none atm
 Dynamic Domain Name: DuckDNS
 Internet service provider: PLDT
+
+
+we need MySQL connector for it to work in unity but first get NuGetForUnity 
+tutorial here : https://openupm.com/packages/com.github-glitchenzo.nugetforunity/#close
+this is just the same: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file
