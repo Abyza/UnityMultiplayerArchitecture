@@ -19,4 +19,8 @@ this link for query syntax in c# : https://www.youtube.com/watch?v=6WiDxiDXfxw&t
 
 main server in unity: https://www.youtube.com/watch?v=8ysXfEW02fI
 
-i used mysql and mysql workbench default is run onn computer start make it manual and stop it and start by typing "services" in search bar and find mysql
+i used mysql and mysql workbench default is run onn computer start make it manual and stop it and start by typing "services" in search bar and find MySQL
+
+main server tutorial:https://www.youtube.com/watch?v=8ysXfEW02fI
+you have to download 2 nuget packages in unity: mailkit and mimekit  both by jeffry stedfast
+
