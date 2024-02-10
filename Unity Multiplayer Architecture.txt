@@ -15,3 +15,4 @@ we need MySQL connector for it to work in unity but first get NuGetForUnity
 inside the nuget in unity thats where you download the mysql connector just that one package no need for mysql.data
 tutorial here : https://openupm.com/packages/com.github-glitchenzo.nugetforunity/#close
 this is just the same: https://github.com/GlitchEnzo/NuGetForUnity?tab=readme-ov-file
+this link for query syntax in c# : https://www.youtube.com/watch?v=6WiDxiDXfxw&t=30s
