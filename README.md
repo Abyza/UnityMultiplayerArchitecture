@@ -44,7 +44,7 @@ License: None
 
 ## Description
 
-This repo contains activities that are part of a course in named *  This is my output in the activities given. 
+This repo contains all my knowledge on programming
 
 # About Me
 
