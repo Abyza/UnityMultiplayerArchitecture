@@ -1,4 +1,4 @@
-# Unity Multiplayer Architecture
+# Unity Architecture
 by: Abyza
 
 GameEngineClient: Unity
